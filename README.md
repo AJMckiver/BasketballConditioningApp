@@ -24,5 +24,3 @@ This is a Java-based Basketball Conditioning App that helps users generate worko
 When you run the app, you’ll be prompted to enter the number of weeks for your workout schedule. The app will then display a plan for each week, with exercises and timers for each workout.
 
 
-## Links
-- **GitHub Repository**: [Link to GitHub repository] (Add your GitHub project link here)
